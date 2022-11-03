@@ -29,3 +29,4 @@ class Solution:
 d = 0
 sol = Solution()
 print(sol.find_target(lst, 5000))
+#hghj
